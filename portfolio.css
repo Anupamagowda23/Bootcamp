@@ -1,0 +1,69 @@
+input{
+    border:1px solid blueviolet;
+    background-color: black;
+    border-radius: 1%;
+    color: aliceblue;
+    margin-left: 100px;
+    text-align: center;
+
+}
+#student
+{
+
+    border:1px solid rgb(235, 230, 230);
+    background-color:black;
+}
+button
+{
+    background-color: green;
+    margin-left: 150px;
+
+}
+#paragraph {
+    width:300px;
+    background-color: black;
+    color:blueviolet
+
+}
+h1{
+    color:aliceblue;
+    margin-left: 90px;
+}
+.class1{
+    background-color: black;
+    color: aquamarine;
+    position:relative;
+    width:200px;
+    border:2px solid aquamarine;
+    text-shadow: 10px 10px 3px aquamarine ;
+}
+.class2{
+    background-color: blue;
+    position: sticky;
+    top:300px;
+    left:10px;
+    width:200px;
+}
+.class3{
+    background-color: bisque;
+    position:absolute;
+    border: 2px solid black;
+    width:200px;
+
+}
+table{
+    background-color:plum;
+    border-radius: 1px;
+}
+body{
+    background-image:linear-gradient(to left,yellow,green);
+}
+caption{
+    background-color: blueviolet;
+    border: 2px solid plum;
+    color: plum;
+}
+row{
+    color: chocolate;
+    padding: auto;
+}
